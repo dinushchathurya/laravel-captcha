@@ -1,5 +1,6 @@
 ## Laravel Captcha Example
 
 ### Demo Image
-<!-- <img src="public/demo.png" alt="Markdown Monster icon" style="float: left; width:1800px; height:500px;" /> -->
-![](public/demo.png)
+<img src="public/demo.png" alt="Demo Image" style="width:1800px; height:500px;" />
+
+<!-- ![](public/demo.png) -->
