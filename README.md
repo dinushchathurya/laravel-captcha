@@ -3,4 +3,4 @@
 ### Demo Image
 
 
-![Demo Image](public/demo.png)
+![Demo Image](public/img/demo.png)
